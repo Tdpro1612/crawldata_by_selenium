@@ -69,3 +69,16 @@
 ```
 
 * đã có file SXMB.csv chúng ta mở google colab để xem xét dự đoán nhé
+
+![test](https://user-images.githubusercontent.com/61773507/129464449-eac324f2-57ff-4099-a395-42e224366f58.jpg)
+
+qua bảng ta kết luận số lượng chẵn lẻ là tương đương nhé nên không bắt chẵn lẻ được
+
+![test](https://user-images.githubusercontent.com/61773507/129464490-c9a1ab69-6b89-454b-859f-d5341b46d9be.jpg)
+
+việc phân bố xác suất ở đây có sự chênh lệch nhất định
+
+![test](https://user-images.githubusercontent.com/61773507/129464550-525cad73-baf7-464d-badf-d8872c37cf76.jpg)
+
+nhưng khi đưa về các khoảng = 10 ta có thể thấy xác suất xấp xỉ nhau 
+Vì lẽ đó,qua 2 bảng này ta có thể kết luận việc soi cầu là không tồn tại
